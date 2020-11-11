@@ -30,6 +30,13 @@ foreach ($data as $d) {
 
 var_dump($layoutList);
 
+
+// var_dump($layoutList);
+
+// echo($data[2]["layout"]);
+
+// print("<pre>".print_r($result, true)."</pre>");
+
 ?>
 
 <!DOCTYPE html>
